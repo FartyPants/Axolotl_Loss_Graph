@@ -1,4 +1,6 @@
 # Axolotl_Loss_Graph
+
+Quick and dirty graph for Axolotl training.
 Creates loss graph in PNG from the terminal output data
 
 So, copy the output data from the terminal, yes, select it with a mouse and just copy it. Here is a small chunk of what data you are going to copy:
