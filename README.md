@@ -14,3 +14,12 @@ So, copy the output data from terminal
 {'loss': 0.0932, 'grad_norm': 0.5664827227592468, 'learning_rate': 3.437147941779564e-05, 'epoch': 3.01}
 
 '''
+
+put them in training.txt
+
+then run the python script
+
+
+You will receive a PNG image
+
+![image](https://github.com/user-attachments/assets/2a1f4248-0de3-47b2-ba6d-8cde4ca1ce5f)
