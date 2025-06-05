@@ -5,7 +5,6 @@ So, copy the output data from terminal
 
  ```bash
 {'loss': 0.2818, 'grad_norm': 1.1705524921417236, 'learning_rate': 3.627039259682899e-05, 'epoch': 2.99}
-
 {'loss': 0.199, 'grad_norm': 0.9174364805221558, 'learning_rate': 3.595113107436394e-05, 'epoch': 2.99}
 
 {'loss': 0.2814, 'grad_norm': 1.0354969501495361, 'learning_rate': 3.5632972661914546e-05, 'epoch': 3.0}
