@@ -1,7 +1,7 @@
 # Axolotl_Loss_Graph
 Creates loss graph in PNG from the terminal output data
 
-So, copy the output data from the terminal, yes, select it with a mouse and just copy it.
+So, copy the output data from the terminal, yes, select it with a mouse and just copy it. Here is a small chunk of what data you are going to copy:
 
  ```bash
 {'loss': 0.2818, 'grad_norm': 1.1705524921417236, 'learning_rate': 3.627039259682899e-05, 'epoch': 2.99}
