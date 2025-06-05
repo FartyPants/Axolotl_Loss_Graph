@@ -3,7 +3,7 @@ Creates loss graph in PNG from the terminal output data
 
 So, copy the output data from terminal
 
-'''
+ ```bash
 {'loss': 0.2818, 'grad_norm': 1.1705524921417236, 'learning_rate': 3.627039259682899e-05, 'epoch': 2.99}
 {'loss': 0.199, 'grad_norm': 0.9174364805221558, 'learning_rate': 3.595113107436394e-05, 'epoch': 2.99}
 {'loss': 0.2814, 'grad_norm': 1.0354969501495361, 'learning_rate': 3.5632972661914546e-05, 'epoch': 3.0}
@@ -13,7 +13,8 @@ So, copy the output data from terminal
 {'loss': 0.1187, 'grad_norm': 0.702708899974823, 'learning_rate': 3.468517078534224e-05, 'epoch': 3.01}
 {'loss': 0.0932, 'grad_norm': 0.5664827227592468, 'learning_rate': 3.437147941779564e-05, 'epoch': 3.01}
 
-'''
+```
+
 
 put them in training.txt
 
