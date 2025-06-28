@@ -3,8 +3,10 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5MOB4M)
 
 
-Quick and dirty graph for Axolotl training.
-Creates loss graph in PNG from the terminal output data
+A handy, dinky-doo graph of your Axolotl training progress.
+It takes the data copied from the terminal output and makes a nice little
+loss graph in a PNG format that you can easily send to your friends
+showing them how training your Axolotl is going so well!
 
 So, copy the output data from the terminal, yes, select it with a mouse and just copy it. Here is a small chunk of what data you are going to copy:
 
