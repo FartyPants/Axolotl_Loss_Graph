@@ -1,5 +1,8 @@
 # Axolotl_Loss_Graph
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5MOB4M)
+
+
 Quick and dirty graph for Axolotl training.
 Creates loss graph in PNG from the terminal output data
 
